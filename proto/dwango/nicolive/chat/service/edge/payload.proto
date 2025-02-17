@@ -1,5 +1,6 @@
 syntax = "proto3";
 
+option go_package = "github.com/shinosaki/nicolive-comment-protobuf/proto/dwango/nicolive/chat/service/edge";
 package dwango.nicolive.chat.service.edge;
 import "google/protobuf/timestamp.proto";
 import "dwango/nicolive/chat/data/message.proto";

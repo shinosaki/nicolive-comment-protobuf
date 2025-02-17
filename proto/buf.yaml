@@ -1,0 +1,5 @@
+version: v1
+name: dwango/nicolive/chat
+deps:
+  - buf.build/googleapis/googleapis
+  - buf.build/protocolbuffers/protobuf

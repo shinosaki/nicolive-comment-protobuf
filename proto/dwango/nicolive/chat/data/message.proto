@@ -1,5 +1,6 @@
 syntax = "proto3";
 
+option go_package = "github.com/shinosaki/nicolive-comment-protobuf/proto/dwango/nicolive/chat/data";
 package dwango.nicolive.chat.data;
 import "dwango/nicolive/chat/data/atoms.proto";
 import "dwango/nicolive/chat/data/atoms/moderator.proto";
